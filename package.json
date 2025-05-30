@@ -1,0 +1,16 @@
+{
+  "name": "cpp_pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node scripts/build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chokidar": "^4.0.3",
+    "rimraf": "^6.0.1"
+  }
+}

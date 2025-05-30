@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+.env
+*.log
+npm-debug.log*
+
+# Build output
+dist/
+build/
+*.exe
+*.out
+
+# C++ object files
+*.o
+*.obj
+*.dll
+*.lib
+*.so
+
+# IDE files
+.vscode/
+*.suo
+*.user
+*.sln
+*.vcxproj*
+
+# Mac system files
+.DS_Store
+
+# Watcher or backup files
+*.swp
+*.bak
+*.tmp
+
+# TypeScript output (if used)
+*.tsbuildinfo
+
+# Optional: ignore all JS files in dist (but not in src)
+dist/**/*.js
