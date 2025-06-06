@@ -37,3 +37,5 @@ build/
 
 # Optional: ignore all JS files in dist (but not in src)
 dist/**/*.js
+*.tar.xz
+*.tar.gz
