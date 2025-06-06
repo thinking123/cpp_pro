@@ -1,7 +1,11 @@
+// main.cpp
 #include <iostream>
+#include "utils.h"
 
 int main()
 {
-    std::cout << "Hello, Windows VSCode C++!" << std::endl;
+    int a = 3, b = 4;
+    std::cout << "Addfsdsds: 12" << add(a, b) << std::endl;
+    std::cout << "Multiply:  " << multiply(a, b) << std::endl;
     return 0;
 }
