@@ -5,7 +5,7 @@
 int main()
 {
     int a = 3, b = 4;
-    std::cout << "Addfsdsds: 12" << add(a, b) << std::endl;
+    std::cout << "Addfsdsds: 12112212" << add(a, b) << std::endl;
     std::cout << "Multiply:  " << multiply(a, b) << std::endl;
     return 0;
 }
